@@ -15,5 +15,5 @@ function goToTopAndFocus(){
     window.scrollTo(0, 0);
     textarea.value = ''
     textarea.focus()
-    // document.execCommand("paste")
+    
 }
